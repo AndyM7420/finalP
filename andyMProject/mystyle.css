@@ -1,0 +1,36 @@
+h1{
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+}
+.photo{
+
+    display: flex;
+
+    flex-wrap: wrap;
+    
+    flex-direction: row;
+}
+#r1-c1{
+    color: black;
+    background-color: black;
+}
+#r1-c2{
+    color: black;
+    background-color: black;
+}
+#r1-c2{
+    color: black;
+
+    background-color: black;
+}
+#r1-c3{
+    color: black;
+
+    background-color: black;
+}
+#r1-c4{
+    color: black;
+
+    background-color: black;
+}
